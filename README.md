@@ -14,7 +14,7 @@ Welcome to a curated collection of blogs and podcasts focused on Web3 security. 
 | [Cyfrin Audits](https://x.com/CyfrinAudits) | [Blog](https://www.cyfrin.io/blog) |
 | [Hexens](https://x.com/hexensio) | [Blog](https://hexens.io/blog) |
 
-### Podcasts:
+### Podcasts
 
 | X account | Link to the podcasts |
 | - | :-: |
