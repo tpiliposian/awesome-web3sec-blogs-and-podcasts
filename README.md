@@ -4,9 +4,11 @@ Welcome to a curated collection of blogs and podcasts focused on Web3 security. 
 
 ### Blogs
 
-- [RareSkills](https://x.com/RareSkills_io) ([blog](rareskills.io/blog))
-- [DevDacian](https://x.com/DevDacian) ([blog](https://dacian.me/))
-- [Zellic](https://x.com/zellic_io) ([blog](https://www.zellic.io/blog/))
+| X account | Link to the blog |
+| - | :-: |
+| [RareSkills](https://x.com/RareSkills_io) | [blog](rareskills.io/blog) |
+| [DevDacian](https://x.com/DevDacian) | [blog](https://dacian.me/) |
+| [Zellic](https://x.com/zellic_io) | [blog](https://www.zellic.io/blog/) |
 - [Trail of Bits](https://x.com/trailofbits) ([blog](https://blog.trailofbits.com/))
 - [MixBytes](https://x.com/MixBytes) ([blog](https://mixbytes.io/blog))
 - [Cyfrin Audits](https://x.com/CyfrinAudits) ([blog](https://www.cyfrin.io/blog))
