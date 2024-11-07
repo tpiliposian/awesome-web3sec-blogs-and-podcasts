@@ -5,6 +5,7 @@
         <img src="https://awesome.re/badge.svg" alt="Awesome" style="vertical-align: middle; margin-left: 10px;">
     </a>
   </p>
+  </div>
 
 Welcome to a curated collection of blogs and podcasts focused on Web3 security. This repository is designed to help security researchers, developers, and enthusiasts stay informed and deepen their understanding of Web3 security practices, trends, and emerging threats.
 
