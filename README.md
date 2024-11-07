@@ -1,6 +1,13 @@
-# Awesome Web3 Security Blogs and Podcasts
+<div align="center">
+  <h1 align="center">Awesome Web3 Security Blogs and Podcasts</h1>
+  <p align="center">
+    <a href="https://awesome.re">
+        <img src="https://awesome.re/badge.svg" alt="Awesome" style="vertical-align: middle; margin-left: 10px;">
+    </a>
+  </p>
 
 Welcome to a curated collection of blogs and podcasts focused on Web3 security. This repository is designed to help security researchers, developers, and enthusiasts stay informed and deepen their understanding of Web3 security practices, trends, and emerging threats.
+
 
 ### Blogs
 
