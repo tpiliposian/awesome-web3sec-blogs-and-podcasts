@@ -14,7 +14,7 @@ Welcome to a curated collection of blogs and podcasts focused on Web3 security. 
 
 | X account | Link to the blog |
 | - | :-: |
-| [RareSkills](https://x.com/RareSkills_io) | [Blog](rareskills.io/blog) |
+| [RareSkills](https://x.com/RareSkills_io) | [Blog](https://www.rareskills.io/blog) |
 | [DevDacian](https://x.com/DevDacian) | [Blog](https://dacian.me/) |
 | [Zellic](https://x.com/zellic_io) | [Blog](https://www.zellic.io/blog/) |
 | [Trail of Bits](https://x.com/trailofbits) | [Blog](https://blog.trailofbits.com/) |
