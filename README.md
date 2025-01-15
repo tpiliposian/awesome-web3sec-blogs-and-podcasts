@@ -27,6 +27,7 @@ Welcome to a curated collection of blogs and podcasts focused on Web3 security. 
 | X account | Link to the podcasts |
 | - | :-: |
 | [Andy Li](https://x.com/andyfeili) | [YouTube](https://www.youtube.com/andyli) |
+| [bountyhunt3rz](https://x.com/bountyhunt3rz) | [Podcasts](https://zencastr.com/bountyhunt3rz-life-on-the-blockchain) |
 | [JohnnyTime](https://x.com/RealJohnnyTime) | [YouTube](https://www.youtube.com/JohnnyTime) |
 | [HackenProof](https://x.com/HackenProof) | [YouTube](https://www.youtube.com/@hackenproof) |
 | [Proof Of Podcast](https://x.com/ProofOf_Podcast) | [YouTube](https://www.youtube.com/@ProofOfPodcast) |
